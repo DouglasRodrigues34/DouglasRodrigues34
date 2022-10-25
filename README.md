@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/DouglasRodrigues34">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=DouglasRodrigues34&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRodrigues34&layout=compact&langs_count=7&theme=react"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api?username=DouglasRodrigues34&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasRodrigues34&layout=compact&langs_count=7&theme=react"/>
 </div>
   
 ## Linguagens de Aprendizado
