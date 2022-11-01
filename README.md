@@ -1,6 +1,6 @@
 ## Faaaala dev, Douglas Rodrigues Aqui!
 
-<div align="center">
+<div align="center" height="360em">
   
   <a href="https://github.com/DouglasRodrigues34">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasRodrigues34&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
