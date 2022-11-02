@@ -1,8 +1,5 @@
 <img align="right" alt="coding" widht="180" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrodrigues34&label=Profile%20views&color=0e75b6&style=flat" alt="douglasrodrigues34" /> </p>
-<br>
-
 <h1 align="center">Hi 👋, I'm Douglas Rodrigues</h1>
 <h3 align="center">A frontend and backend developer passionate about what he does and from Brazil</h3>
 
