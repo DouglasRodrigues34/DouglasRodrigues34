@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=douglasrodrigues34&show_icons=true&locale=en" alt="douglasrodrigues34" /></p>
 </div>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
