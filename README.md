@@ -1,9 +1,10 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=douglasrodrigues34&label=Profile%20views&color=0e75b6&style=flat" alt="douglasrodrigues34" /> </p>
+<img align="right" alt="coding" widht="180" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrodrigues34&label=Profile%20views&color=0e75b6&style=flat" alt="douglasrodrigues34" /> </p>
 <br>
 
 <h1 align="center">Hi 👋, I'm Douglas Rodrigues</h1>
-<h3 align="center">A frontend and backend developer passionate about what he does and from Brazil</h3> <br><br><br>
-<img align="right" alt="coding" widht="180" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<h3 align="center">A frontend and backend developer passionate about what he does and from Brazil</h3>
 
 - 🔭 I’m currently working on [BeAcademy_FromZeroToHero](https://github.com/DouglasRodrigues34?tab=repositories)
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **donmoutsystems.js@gmail.com**
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasrodrigues34&show_icons=true&locale=en&layout=compact" alt="douglasrodrigues34" /></p>
@@ -19,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasrodrigues34&show_icons=true&locale=en" alt="douglasrodrigues34" /></p>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
