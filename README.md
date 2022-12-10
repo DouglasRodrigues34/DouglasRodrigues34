@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [BeAcademy_FromZeroToHero](https://github.com/DouglasRodrigues34?tab=repositories)
 
-- 🌱 I’m currently learning **HTML, CSS, Programming Logic, SQL, Javascript and Solid.**
+- 🌱 I’m currently learning **HTML, CSS, Programming Logic, MYSQL, Javascript and Solid.**
 
 - 📫 How to reach me **donmoutsystems.js@gmail.com**
 
