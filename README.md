@@ -11,11 +11,8 @@
 
 <br><br><br>
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglasrodrigues34&show_icons=true&locale=en&layout=compact" alt="douglasrodrigues34" /></p>
+![certificado](https://user-images.githubusercontent.com/110262864/212515260-ddbfdb58-b276-4e7b-84be-20676dbb1050.jpg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=douglasrodrigues34&show_icons=true&locale=en" alt="douglasrodrigues34" /></p>
-</div>
 
 <br><br><br>
 
