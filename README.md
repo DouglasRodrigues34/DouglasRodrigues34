@@ -11,16 +11,6 @@
 
 <br><br><br>
 
-![certificado](https://user-images.githubusercontent.com/110262864/212515260-ddbfdb58-b276-4e7b-84be-20676dbb1050.jpg)
-
-
-<br><br><br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/douglas-luiz-de-oliveira-rodrigues-1b2994240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/douglas-luiz-de-oliveira-rodrigues-1b2994240/" height="30" width="40" /></a>
-</p>
-
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
