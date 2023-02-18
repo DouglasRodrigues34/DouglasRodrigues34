@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Start By Capgemini
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript and Solid.**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Solid and OutSystems.**
 
 - 📫 How to reach me **donmoutsystems.js@gmail.com**
 
