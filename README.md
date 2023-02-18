@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Douglas Rodrigues</h1>
 <h3 align="center">A frontend developer passionate about what he does and from Brazil</h3>
 
-- 🔭 I’m currently working on [BeAcademy_FromZeroToHero](https://github.com/DouglasRodrigues34?tab=repositories)
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and Solid.**
 
