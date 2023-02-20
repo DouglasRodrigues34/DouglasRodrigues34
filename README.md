@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Douglas Rodrigues</h1>
 <h3 align="center">A frontend developer passionate about what he does and from Brazil</h3>
 
-- 🔭 I’m currently working on Start By Capgemini
+- 🔭 I’m currently working on Start By Capgemini and MasterClass Interfys...
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, Solid and OutSystems.**
 
