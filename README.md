@@ -2,7 +2,6 @@
 ### Olá! Eu sou o Douglas Rodrigues ✋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-luiz-de-oliveira-rodrigues-1b2994240/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.linkedin.com/in/douglas-luiz-de-oliveira-rodrigues-1b2994240/](https://www.youtube.com/@OutSystems_Jr))
 
 ![Douglas Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglasrodrigues34&show_icons=true&theme=onedark)
 
