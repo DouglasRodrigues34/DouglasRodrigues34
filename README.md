@@ -1,17 +1,22 @@
-<img align="right" alt="coding" widht="180" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<h1 align="center">Hi 👋, I'm Douglas Rodrigues</h1>
-<h3 align="center">A frontend developer passionate about what he does and from Brazil</h3>
+### Olá! Eu sou o Douglas Rodrigues ✋
 
-- 🔭 I’m currently working on Start By Capgemini and MasterClass Interfys...
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-luiz-de-oliveira-rodrigues-1b2994240/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.linkedin.com/in/douglas-luiz-de-oliveira-rodrigues-1b2994240/](https://www.youtube.com/@OutSystems_Jr))
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Solid and OutSystems.**
+![Douglas Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglasrodrigues34&show_icons=true&theme=onedark)
 
-- 📫 How to reach me **donmoutsystems.js@gmail.com**
+## Tecnologias que eu uso no meu dia 😁
 
-<br><br><br>
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img align="center" alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div><br/>
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasrodrigues34&langs_count=8)](https://github.com/Douglasrodrigues34/github-readme-stats)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+Apaixonado por tecnologia 😄
